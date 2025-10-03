@@ -4,6 +4,6 @@ draft = true
 title = 'PEtouch - Dotykowa klawiatura USBMIDI'
 +++
 
-Status: {{<button>Dostępne sztuki</button>}}
+Status: Dostępne sztuki
 
 Wkrótce!
