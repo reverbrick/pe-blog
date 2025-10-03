@@ -105,3 +105,6 @@ pagination.pagerSize = 5
           identifier = "contact"
           name = "Kontakt"
           url = "/contact"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
