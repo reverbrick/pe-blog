@@ -1,7 +1,7 @@
 languageCode = 'pl-PL'
 title = 'PlayableElectronics'
 
-baseurl = "/"
+baseurl = "https://reverbrick.github.io/pe-blog/"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
