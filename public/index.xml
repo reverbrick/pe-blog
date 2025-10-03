@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <lastBuildDate>Fri, 03 Oct 2025 12:46:27 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PEtouch - Dotykowa klawiatura USBMIDI</title>
+      <link>//localhost:1313/gear/touch/</link>
+      <pubDate>Fri, 03 Oct 2025 12:46:27 +0200</pubDate>
+      <guid>//localhost:1313/gear/touch/</guid>
+      <description>&lt;p&gt;Status: {{&lt;!-- raw HTML omitted --&gt;Dostępne sztuki&amp;lt;/bu&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PEtouch - Dotykowa klawiatura USBMIDI</title>
+      <link>//localhost:1313/gear/touch/touch/</link>
+      <pubDate>Fri, 03 Oct 2025 12:46:27 +0200</pubDate>
+      <guid>//localhost:1313/gear/touch/touch/</guid>
+      <description>&lt;p&gt;Wkrótce!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PEdal - Efekt gitarowy oparty o Daisy Seed</title>
+      <link>//localhost:1313/gear/pedal/pedal/</link>
+      <pubDate>Fri, 03 Oct 2025 11:16:15 +0200</pubDate>
+      <guid>//localhost:1313/gear/pedal/pedal/</guid>
+      <description>&lt;p&gt;Strona autora: &lt;a href=&#34;https://github.com/bkshepherd/DaisySeedProjects&#34;&gt;https://github.com/bkshepherd/DaisySeedProjects&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wkrótce!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hypjolin - Krosmodulacyjny generator hiperchaosu</title>
+      <link>//localhost:1313/gear/hypjolin/hypjolin/</link>
+      <pubDate>Fri, 03 Oct 2025 11:16:07 +0200</pubDate>
+      <guid>//localhost:1313/gear/hypjolin/hypjolin/</guid>
+      <description>&lt;p&gt;Strona autora: &lt;a href=&#34;https://triglavmodular.hu/the-hypjolin/&#34;&gt;https://triglavmodular.hu/the-hypjolin/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/skuxMl1TvDs&amp;amp;t=379s?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Picotracker -  Kieszonkowy Retro-tracker</title>
+      <link>//localhost:1313/gear/picotracker/picotracker/</link>
+      <pubDate>Fri, 03 Oct 2025 11:15:25 +0200</pubDate>
+      <guid>//localhost:1313/gear/picotracker/picotracker/</guid>
+      <description>&lt;p&gt;Strona autora: &lt;a href=&#34;https://xiphonics.com/&#34;&gt;https://xiphonics.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/U3ApnPD9w20&amp;amp;t=5s?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Dexed - Miniaturowe studio muzyczne</title>
+      <link>//localhost:1313/gear/dexed/dexed/</link>
+      <pubDate>Fri, 03 Oct 2025 11:15:15 +0200</pubDate>
+      <guid>//localhost:1313/gear/dexed/dexed/</guid>
+      <description>&lt;p&gt;Strona autora: &lt;a href=&#34;https://codeberg.org/positionhigh/MicroDexed-touch&#34;&gt;https://codeberg.org/positionhigh/MicroDexed-touch&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wkrótce!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Fri, 03 Oct 2025 11:15:15 +0200</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Wkrótce formularz!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O mnie</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Fri, 03 Oct 2025 11:15:15 +0200</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;Więc.. ta strona i &amp;ldquo;marka&amp;rdquo; którą tu przemycam nazywa się PlayableElectronics, a ja jestem Daniel.&lt;/p&gt;&#xA;&lt;p&gt;Na codzień pracuję jako Software Engineer, a pasjonuję się elektroniką i muzyką marząc, że kiedyś to będzie moja praca.&lt;/p&gt;&#xA;&lt;p&gt;Można mnie znaleźć muzycznie jako ReverbRick &lt;a href=&#34;https://soundcloud.com/reverbrick&#34;&gt;tu&lt;/a&gt; albo &lt;a href=&#34;https://reverbrick.bandcamp.com/&#34;&gt;tu&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Kontakt do mnie reverbrick(at)interia.pl, a numeru nie podam na stronie bo mnie zaleje spam ;) Na maile odpowiadam sprawnie i jestem na telegramie (nick można w sumie łatwo wydedukować)!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opendeck - Twój, szyty na miarę kontroler midi</title>
+      <link>//localhost:1313/gear/opendeck/opendeck/</link>
+      <pubDate>Fri, 03 Oct 2025 11:14:38 +0200</pubDate>
+      <guid>//localhost:1313/gear/opendeck/opendeck/</guid>
+      <description>&lt;p&gt;Strona autora: &lt;a href=&#34;https://shanteacontrols.com/&#34;&gt;https://shanteacontrols.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Wkrótce!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Witaj w moim nowym blogu</title>
+      <link>//localhost:1313/posts/welcome/</link>
+      <pubDate>Wed, 01 Oct 2025 07:07:07 +0100</pubDate>
+      <guid>//localhost:1313/posts/welcome/</guid>
+      <description>&lt;h2 id=&#34;wstęp&#34;&gt;Wstęp&lt;/h2&gt;&#xA;&lt;p&gt;Było już wiele różnych blogów, ale ten ma konkretny cel. Będę tutaj:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;prezentować sprzęt służący do szeroko pojętego generowania dźwięku i komponowania muzyki.&lt;/li&gt;&#xA;&lt;li&gt;oferować tzw. kity, czyli zestawy do samodzielnego montażu wspomnianych urządzeń.&lt;/li&gt;&#xA;&lt;li&gt;proponować gotowe instrumenty dla tych, którzy nie czują się na siłach, aby zbudować je samodzielnie.&lt;/li&gt;&#xA;&lt;li&gt;przeprowadzać testy oraz zamieszczać opisy nowinek z dziedziny GAS :).&lt;/li&gt;&#xA;&lt;li&gt;promować niezależnych twórców wspomnianego sprzętu oraz ich wyroby.&lt;/li&gt;&#xA;&lt;li&gt;opisywać oraz oferować sprzęt własnego pomysłu lub wykonywany na zamówienie.&lt;/li&gt;&#xA;&lt;li&gt;promować muzykę wolną i od niezależnych twórców (włącznie ze mną&amp;hellip; może głównie moją :-)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Warto również wspomnieć, czego tutaj nie będę robił:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
